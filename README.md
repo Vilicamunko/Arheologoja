@@ -20,6 +20,9 @@ Play the game live here:
 - Built with **Unity 2021/2022**  
 - Exported as **WebGL** for browser play  
 
-
 ## How to Run Locally
-1. Clone this repository:
+To play Dino Tetris on your own computer:
+
+1. **Clone the repository**  
+   ```bash
+   git clone <repository-url>
