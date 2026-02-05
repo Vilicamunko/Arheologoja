@@ -25,4 +25,4 @@ To play Dino Tetris on your own computer:
 
 1. **Clone the repository**  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vilicamunko/Arheologoja
